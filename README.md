@@ -1,6 +1,6 @@
 # TRB Innovations in Transit Performance Measurement Contest
 
-This repository will contain contest guidelines and data provided by 
+This repository will contain contest guidelines and data for the TRB Innovations in Transit Performance Measurement Contest.  Contestants can use this repository to download the data.
 
 ## Deadlines
 Add deadlines here
@@ -8,6 +8,8 @@ Add deadlines here
 ## Contest Guidelines
 Add guidelines here
 
+## Submission
+Info on how to submit
 
 ## Descriptions of Data
 [actual data will be stored in files at the top of this page]
