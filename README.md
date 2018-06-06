@@ -2,10 +2,21 @@
 
 This repository will contain contest guidelines and data provided by 
 
+## Deadlines
+Add deadlines here
 
 ## Contest Guidelines
-Can go here
+Add guidelines here
 
 
 ## Descriptions of Data
-Can go here [actual data will be stored in files at the top of this page]
+[actual data will be stored in files at the top of this page]
+* Metro Transit (safety)
+* King County Metro (bus operation)
+* Denver RTD (asset management)
+* San Francisco, Zurich, and Geneva vehicle location and stop level ridership
+* Links to GTFS data
+
+
+## Contact Information
+Names/Organizations/Emails
