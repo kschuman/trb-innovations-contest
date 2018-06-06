@@ -11,7 +11,7 @@ Add guidelines here
 ## Submission
 Info on how to submit
 
-## Descriptions of Data
+## Datasets
 [actual data will be stored in files at the top of this page]
 * Metro Transit (safety)
 * King County Metro (bus operation)
